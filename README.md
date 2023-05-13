@@ -1,7 +1,7 @@
  Hello I'm Gabe Klein.
  I like coding and writing comics 
  I'm the  creator of this game.
- I'm also a programmer and device plan designerat KleiStudios Super Technology
+ Click the link below to play Minecraft RPG Beta 1.3
 
 
 
